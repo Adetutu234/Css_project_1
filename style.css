@@ -1,8 +1,11 @@
-nav{
+h1{
     background-color: aqua; padding: 2px; ;
 }
 
 body{
     background-color: brown;
     padding: 3px;
+}
+h2{
+    background-color: cornsilk; padding: 10px;
 }
